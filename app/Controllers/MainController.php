@@ -2,11 +2,13 @@
 
 namespace App\Controllers;
 
+use App\Models\Category;
+
 class MainController extends CoreController
 {
     public function home()
     {
-        $categories = Category::findAllHomePage();
+        $categories = Category::findAllHomepage();
 
         $products = Products::findAllHomePage();
 
