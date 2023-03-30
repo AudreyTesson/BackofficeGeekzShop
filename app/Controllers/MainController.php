@@ -10,11 +10,11 @@ class MainController extends CoreController
     {
         $categories = Category::findAllHomepage();
 
-        $products = Products::findAllHomePage();
+        // $products = Products::findAllHomePage();
 
         $this->show('main/home', [
             'categories' => $categories,
-            'products' => $products
+            // 'products' => $products
         ]);
     }
 }

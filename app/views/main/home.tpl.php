@@ -37,7 +37,7 @@
                                             </button>
                                             <div class="dropdown-menu">
                                                 <a class="dropdown-item" href="#">Yes, I want to delete</a>
-                                                <a class="dropdown-item" href="#" data-toggle="dropdown">Oups !</a>
+                                                <a class="dropdown-item" href="#" data-toggle="dropdown">Outch !</a>
                                             </div>
                                         </div>
                                     </td>
@@ -51,7 +51,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-6">
+            <!-- <div class="col-12 col-md-6">
                 <div class="card text-white mb-3">
                     <div class="card-header bg-primary">Products List</div>
                     <div class="card-body">
@@ -79,7 +79,7 @@
                                             </button>
                                             <div class="dropdown-menu">
                                                 <a class="dropdown-item" href="#">Yes, I want to delete</a>
-                                                <a class="dropdown-item" href="#" data-toggle="dropdown">Oups !</a>
+                                                <a class="dropdown-item" href="#" data-toggle="dropdown">Outch !</a>
                                             </div>
                                         </div>
                                     </td>
@@ -92,6 +92,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
